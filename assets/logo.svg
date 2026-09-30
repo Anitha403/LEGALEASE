@@ -1,0 +1,133 @@
+<svg width="900" height="300" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- White background -->
+  <rect width="900" height="300" fill="white"/>
+
+  <!-- Logo icon -->
+  <g transform="translate(70,45)">
+
+    <!-- Outer circle -->
+    <circle
+      cx="105"
+      cy="105"
+      r="92"
+      fill="none"
+      stroke="#D4A72C"
+      stroke-width="8"
+    />
+
+    <!-- L -->
+    <path
+      d="M55 55 V155 H105"
+      fill="none"
+      stroke="#17365D"
+      stroke-width="13"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    />
+
+    <!-- E -->
+    <path
+      d="M125 55 H175
+         M125 55 V155
+         M125 105 H165
+         M125 155 H175"
+      fill="none"
+      stroke="#17365D"
+      stroke-width="13"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    />
+
+    <!-- Justice scale -->
+    <path
+      d="M105 45 V165"
+      stroke="#D4A72C"
+      stroke-width="7"
+      stroke-linecap="round"
+    />
+
+    <path
+      d="M72 72 H138"
+      stroke="#D4A72C"
+      stroke-width="7"
+      stroke-linecap="round"
+    />
+
+    <path
+      d="M72 72 L55 105 H89 Z"
+      fill="none"
+      stroke="#D4A72C"
+      stroke-width="5"
+    />
+
+    <path
+      d="M138 72 L121 105 H155 Z"
+      fill="none"
+      stroke="#D4A72C"
+      stroke-width="5"
+    />
+
+    <!-- AI circuit dots -->
+    <circle cx="40" cy="145" r="5" fill="#D4A72C"/>
+    <circle cx="170" cy="145" r="5" fill="#D4A72C"/>
+
+    <path
+      d="M40 145 H25 M170 145 H185"
+      stroke="#D4A72C"
+      stroke-width="4"
+    />
+
+  </g>
+
+  <!-- LegalEase text -->
+  <text
+    x="300"
+    y="145"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="68"
+    font-weight="700"
+    fill="#17365D">
+    Legal
+  </text>
+
+  <text
+    x="490"
+    y="145"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="68"
+    font-weight="700"
+    fill="#D4A72C">
+    Ease
+  </text>
+
+  <!-- Tagline -->
+  <line
+    x1="305"
+    y1="175"
+    x2="345"
+    y2="175"
+    stroke="#D4A72C"
+    stroke-width="3"
+  />
+
+  <text
+    x="360"
+    y="182"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="21"
+    letter-spacing="2"
+    fill="#555555">
+    SMARTER LEGAL SOLUTIONS
+  </text>
+
+  <line
+    x1="700"
+    y1="175"
+    x2="740"
+    y2="175"
+    stroke="#D4A72C"
+    stroke-width="3"
+  />
+
+</svg>
